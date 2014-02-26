@@ -1,6 +1,6 @@
 * Create a new Github organization with name template `swcarpentry-YYYY-MM-DD-INST`, where `INST` is institution name
 * Add all your collaborators as owners of the organization
-* for the https://github.com/swcarpentry/bc repository under the organization account
+* Fork the https://github.com/swcarpentry/bc repository under the organization account using the Github web interface
 * create an empty repository under the organization named `swcarpentry-YYYY-MM-DD-INST.github.io` that will host the build website
 * Now clone the `bc` repository of your organization locally
 * Add the website as the `publish` remote:
