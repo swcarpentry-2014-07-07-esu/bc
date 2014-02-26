@@ -5,11 +5,11 @@
 * Now clone the `bc` repository of your organization locally
 * Add the website as the `publish` remote:
 
-      git add remote publish https://github.com/swcarpentry-YYYY-MM-DD-INST/swcarpentry-YYYY-MM-DD-INST.github.io.git
+        git add remote publish https://github.com/swcarpentry-YYYY-MM-DD-INST/swcarpentry-YYYY-MM-DD-INST.github.io.git
     
 * Then publish the website by pushing to that remote
 
-      git push publish
+        git push publish
     
 * The website will be available 10 minutes later on: swcarpentry-YYYY-MM-DD-INST.github.io 
 
